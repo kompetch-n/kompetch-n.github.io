@@ -1,5 +1,7 @@
-title: บล็อกของฉัน
-description: ยินดีต้อนรับสู่โลกของผม
+title: "Petch's Dev Journey"
+description: "บันทึกการเรียนรู้และผลงานด้านโปรแกรมมิ่งของผม"
+twitter_username: your_handle
+github_username: kompetch-n
 author: PETCH
 remote_theme: pages-themes/slate@v0.2.0
 show_downloads: false
